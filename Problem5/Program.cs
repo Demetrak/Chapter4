@@ -18,6 +18,7 @@ class Program
             if (i % 5 == 0) counter++;
         }
 
+
         Console.WriteLine("{0} number founds",counter);
     }
 
